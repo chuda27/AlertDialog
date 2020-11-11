@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlertAndroid</string>
+    <string name="warning">Warning</string>
+    <string name="gampang_bukan">Gampang bukan alert dialognya?</string>
+    <string name="ya">Ya</string>
+</resources>
